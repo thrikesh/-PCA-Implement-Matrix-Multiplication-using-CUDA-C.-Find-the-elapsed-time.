@@ -104,6 +104,7 @@ int main()
 }
 
 ## Output:
+<br>![output](./pca(ex5).png)
 
 ## Result:
 The implementation of Matrix Multiplication using GPU is done successfully.
